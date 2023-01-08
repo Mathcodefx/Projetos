@@ -1,0 +1,13 @@
+C:\Users\Matheus\Desktop\Project\ScreenLogin\ScreenLogin\bin\Debug\ScreenLogin.exe.config
+C:\Users\Matheus\Desktop\Project\ScreenLogin\ScreenLogin\bin\Debug\ScreenLogin.exe
+C:\Users\Matheus\Desktop\Project\ScreenLogin\ScreenLogin\bin\Debug\ScreenLogin.pdb
+C:\Users\Matheus\Desktop\Project\ScreenLogin\ScreenLogin\obj\Debug\ScreenLogin.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\Project\ScreenLogin\ScreenLogin\obj\Debug\ScreenLogin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matheus\Desktop\Project\ScreenLogin\ScreenLogin\obj\Debug\ScreenLogin.LoginScreen.resources
+C:\Users\Matheus\Desktop\Project\ScreenLogin\ScreenLogin\obj\Debug\ScreenLogin.Properties.Resources.resources
+C:\Users\Matheus\Desktop\Project\ScreenLogin\ScreenLogin\obj\Debug\ScreenLogin.csproj.GenerateResource.cache
+C:\Users\Matheus\Desktop\Project\ScreenLogin\ScreenLogin\obj\Debug\ScreenLogin.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Project\ScreenLogin\ScreenLogin\obj\Debug\ScreenLogin.exe
+C:\Users\Matheus\Desktop\Project\ScreenLogin\ScreenLogin\obj\Debug\ScreenLogin.pdb
+C:\Users\Matheus\Desktop\Project\ScreenLogin\ScreenLogin\obj\Debug\ScreenLogin.MainScreen.resources
+C:\Users\Matheus\Desktop\Project\ScreenLogin\ScreenLogin\obj\Debug\ScreenLogin.Register.resources
